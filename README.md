@@ -4,5 +4,7 @@
 
 # I'm trying to learn, improve and one day become a developer.
 
-<i class="devicon-javascript-plain colored"></i>
+
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/>
+          
           
