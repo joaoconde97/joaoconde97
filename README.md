@@ -4,7 +4,7 @@
 
 ## I'm trying to learn, improve and one day become a developer.
 
-<div class="tenor-gif-embed" data-postid="5104411" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/corgi-computer-typing-gif-5104411">Corgi Computer GIF</a>from <a href="https://tenor.com/search/corgi-gifs">Corgi GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<p align="center"><img src="[https://i.giphy.com/RThN0hOS2GO4M.gif](https://tenor.com/pt-BR/view/corgi-computer-typing-gif-5104411)" /></p>
 
 ### I'm learning
 
