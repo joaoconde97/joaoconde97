@@ -8,7 +8,7 @@
 
 ### I'm learning
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaoconde97)](https://github.com/joaoconde97/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaoconde97)](https://github.com/joaoconde97/github-readme-stats)
 
 
 
