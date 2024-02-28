@@ -4,7 +4,7 @@
 
 ## I'm trying to learn, improve and one day become a developer.
 
-<p align="center"><img src="https://tenor.com/pt-BR/view/corgi-computer-typing-gif-5104411" /></p>
+<p align="center"><img src="https://media1.tenor.com/m/58DNSt-Lvw0AAAAC/corgi-computer.gif" /></p>
 
 ### I'm learning
 
