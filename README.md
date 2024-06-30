@@ -2,7 +2,7 @@
 
 ## My name is João Victor Conde and my nickname is "Joaoconde"
 
-## I'm trying to learn, improve and one day become a developer.
+## I'm trying to learn, improve and one day become a Front-end developer.
 
 <p align="center">
   <img src="https://media1.tenor.com/m/58DNSt-Lvw0AAAAd/corgi-computer.gif" width="350">
