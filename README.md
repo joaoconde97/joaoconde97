@@ -1,8 +1,8 @@
-### Hello Welcome to my Githube profile. 👋
+### Olá, seja bem vindo ao meu GitHub. 👋
 
-## My name is João Victor Conde and my nickname is "Joaoconde"
+## Meu nome é João Victor Conde 
 
-## I'm trying to learn, improve and one day become a Front-end developer.
+## Estou em busca de me tornar um desenvolvedor Front-end.
 
 <p align="center">
   <img src="https://media1.tenor.com/m/58DNSt-Lvw0AAAAd/corgi-computer.gif" width="350">
