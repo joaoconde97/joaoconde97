@@ -1,6 +1,6 @@
 ### Olá, seja bem vindo ao meu GitHub. 👋
 
-## Meu nome é João Victor Conde 
+## Meu nome é João Victor Conde.
 
 ## Estou em busca de me tornar um desenvolvedor Front-end.
 
