@@ -2,6 +2,6 @@
 
 ## Meu nome é João Victor Conde.
 
-## Estou em busca de me tornar um desenvolvedor.
+## Meu Hobby é aprender.
 
           
