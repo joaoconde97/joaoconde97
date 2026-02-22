@@ -1,7 +1,4 @@
-### Olá, seja bem vindo ao meu GitHub. 👋
+Hi I'm João 👋
 
-## Meu nome é João Victor Conde.
-
-## Meu Hobby é aprender.
 
           
